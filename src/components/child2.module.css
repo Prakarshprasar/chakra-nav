@@ -1,0 +1,11 @@
+.child2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+.signin:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

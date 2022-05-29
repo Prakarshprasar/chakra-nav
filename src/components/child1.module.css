@@ -1,0 +1,14 @@
+.child1{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.logo{
+    font-weight: bolder;
+}
+.nonpop{
+    cursor: pointer;
+}
+.large{
+    font-size: 18px;
+}
